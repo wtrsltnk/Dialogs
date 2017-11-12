@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(dialogs)
+project(Dialogs)
 
-add_library(dialogs
+add_library(Dialogs
     ColorDialog.cpp
     ColorDialog.h
     CustomDialog.cpp
